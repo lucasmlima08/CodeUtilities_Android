@@ -10,7 +10,7 @@ import java.util.UUID;
 
 public class Server {
 
-	private BluetoothAdapter bluetoothAdapter;
+    private BluetoothAdapter bluetoothAdapter;
     private BluetoothServerSocket serverSocket = null;
     
     private UUID uuid;
